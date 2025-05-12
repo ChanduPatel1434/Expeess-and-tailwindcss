@@ -1,0 +1,56 @@
+[
+  {
+    "id": "001",
+    "homename": "house-1",
+    "location": "656",
+    "price": " knr",
+    "rating": "5",
+    "bedrooms": "3",
+    "image": "./images/house2.png"
+  },
+  {
+    "id": "002",
+    "homename": "House-3",
+    "location": "898",
+    "price": "KukatPally ",
+    "rating": "5",
+    "bedrooms": "3",
+    "image": "./images/house3.png"
+  },
+  {
+    "id": "003",
+    "homename": "House-4",
+    "location": "499 + (gst 18%)",
+    "price": "Sircilla",
+    "rating": "5",
+    "bedrooms": "3",
+    "image": "./images/house4.png"
+  },
+  {
+    "id": "004",
+    "homename": "House-2",
+    "location": "989",
+    "price": "Chennai",
+    "rating": "4.4",
+    "bedrooms": "3",
+    "image": "./images/house5.png"
+  },
+  {
+    "homename": "House-6",
+    "location": "9,899",
+    "price": "Bhopal",
+    "rating": "5",
+    "bedrooms": "6",
+    "image": "./images/house7.png",
+    "id": "0.11650420053199295"
+  },
+  {
+    "homename": "House-6",
+    "location": "9,899",
+    "price": "Bhopal",
+    "rating": "5",
+    "bedrooms": "6",
+    "image": "./images/house7.png",
+    "id": "0.9050338291479589"
+  }
+]
